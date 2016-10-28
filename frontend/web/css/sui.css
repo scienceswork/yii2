@@ -1,0 +1,171 @@
+/**
+ * 修改部分sui样式不美观部分
+ */
+.list-block {
+    margin: .5rem 0 !important;
+}
+.list-block .item-after {
+    font-size: .7rem !important;
+    color: #6d6d72 !important;
+}
+.list-block .item-title {
+    font-size: .8rem !important;
+}
+.content-block-title {
+    margin: .5rem .75rem .5rem !important;
+}
+.bar.bar-footer-secondary {
+    background: inherit !important;
+}
+.bar {
+    background: #fff !important;
+}
+/* 块居中 */
+.block-center {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+/* 圆角头像 */
+.avator-lg {
+    /* 140*140 */
+    margin: 10px 10px 10px 0;
+    width: 88px;
+    height: 88px;
+    -webkit-border-radius: 200px;
+    overflow: hidden;
+    display: block;
+}
+.avator-lg img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    overflow: hidden;
+    -webkit-border-radius: 200px;
+}
+/* 无margin */
+.no-margin {
+    /*margin: 0 !important;*/
+}
+.no-margin-imp {
+    margin: 0 !important;
+}
+.no-padding {
+    padding: 0;
+}
+.no-padding-imp {
+    padding: 0 !important;
+}
+.no-padding-top-buttom {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.no-padding-top-buttom-imp {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.no-margin-top-buttom {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+/* 工具条未固定 */
+.bar-tab-relative {
+    position: relative !important;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.bar-tab-relative .icon {
+    margin-bottom: 5px;
+}
+/* 边框 */
+.with-border {
+    border: 1px solid #e8e6e6;
+}
+.with-border-bottom {
+    border-bottom: 1px solid #e8e6e6;
+}
+/* 栅栏布局 */
+.row {
+    margin-left: 0 !important;
+}
+.row .col-33 {
+    margin-left: 0 !important;
+    width: 33.33%;
+}
+.row .col-50 {
+    margin-left: 0 !important;
+    width: 50%;
+}
+/* 背景颜色 */
+.bg-white {
+    background: #fff;
+}
+.bg-warn {
+    background-color: rgba(255, 242, 183, .95) !important;
+}
+.bg-success {
+    background-color: #4cd964 !important;
+}
+/* 字体大小 */
+.text-small {
+    font-size: .7rem ;
+}
+.text-small-imp {
+    font-size: .7rem !important;
+}
+.text-left {
+    text-align: left;
+}
+.text-right {
+    text-align: right;
+}
+/* padding */
+.padding-left-and-right {
+    padding-left: .75rem !important;
+    padding-right: .75rem !important;
+}
+/* 行内块 */
+.inline-block {
+    display: inline-block !important;
+}
+.list-group-title {
+    color: #999 !important;
+}
+/* 标签 */
+.label-text {
+    margin: 0 10px 10px 0;
+    display: inline-block;
+    position: relative;
+    line-height: 1.5rem;
+    height: 1.5rem;
+    padding: 0 10px;
+    border: 1px solid #0894ec;
+    border-radius: 15px;
+    cursor: default;
+}
+/* 轮播动画组件 */
+.swiper-container {
+    padding-bottom: 0;
+}
+.swiper-container img {
+    width: 100%;
+    height: 100%;
+}
+.swiper-container-horizontal>.swiper-pagination {
+    bottom: 0;
+}
+/* 宽度100% */
+.fill-width {
+    width: 100%;
+    height: 100%;
+}
+/* 字体颜色 */
+.color-gray {
+    color: #999 !important;
+}
+/* badge */
+.badge {
+    line-height: 1rem;
+}
+
+
