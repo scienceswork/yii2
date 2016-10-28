@@ -4,16 +4,16 @@
 
 	"default": {
 
-		"host": "haoustore.com",
-		"username": "www",  // or null for anonymous login
-		"password": "D87LuYcytkkW",
-		"path": "/",
+		"host": "h5.scienceswork.com",
+		"username": "h5",  // or null for anonymous login
+		"password": "zuowoziji123",
+		"path": "/h5.scienceswork.com",
 
-		"upload_on_save": true, // set *false* if you do not want to upload on save!
+		"upload_on_save": true // set *false* if you do not want to upload on save!
 
-		"port": 21,
+		// "port": 21,
 		// "tls": false,
-		"timeout": 30, // [seconds]
+		// "timeout": 30 // [seconds]
 
 		// "passive": true,
 		// "download_on_open": false,
